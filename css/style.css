@@ -46,3 +46,14 @@
 .block-margin{
     margin-bottom: 20px;
 }
+.header-wrapper{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav-ul{
+    display: flex;
+    width: 581px;
+    justify-content: space-between;
+
+}
