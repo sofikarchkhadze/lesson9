@@ -48,12 +48,52 @@
 }
 .header-wrapper{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
+    width: 1170px;
+    margin:0 auto;
 }
 .nav-ul{
     display: flex;
     width: 581px;
     justify-content: space-between;
 
+}
+.div-wrapper{
+    display: flex;
+    justify-content:space-between;
+    width: 1170px;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+.left-wrapper{
+    width: 500px;
+    background-color: aqua;
+    text-align: center;
+
+}
+.right-wrapper{
+    width: 500px;
+    background-color: red;
+}
+.image-block{
+    width: 100%;
+}
+.div-h2{
+    font-size: 30;
+    font-weight: bold;
+}
+.wave-block{
+    background-color: blue;
+    width: 263px;
+    height: 67px;
+    border-radius: 38px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 83.9px;
+
+}
+.wave2{
+    margin-right:24.7px ;
 }
