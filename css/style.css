@@ -82,6 +82,7 @@
 .div-h2{
     font-size: 30;
     font-weight: bold;
+    margin-top: 50px;
 }
 .wave-block{
     background-color: blue;
@@ -91,7 +92,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 83.9px;
+    margin-top: 150px;
 
 }
 .wave2{

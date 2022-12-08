@@ -1,0 +1,25 @@
+@media (max-width:1024px) {
+    .head-wrapper{
+        width: 500px;
+
+    }
+    .div-wrapper{
+        width: 500px;
+    }
+    .container-wrapper{
+        width: 500px;
+    }
+}
+
+@media(max-width:768px) {
+    .div-wrapper:first-child{
+        background-color: blueviolet;
+    }
+
+
+}
+@media(max-width:1024px) {
+    .block-line1{
+        width: 15%;
+    }
+}
